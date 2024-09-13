@@ -1,0 +1,26 @@
+Symmetric Matrix: 
+   0.933287    0.372112    0.718772 
+   0.372112    0.259621    0.274606 
+   0.718772    0.274606    0.412275 
+
+Eigenvectors Matrix(Jacobi): 
+   0.772585   -0.298758   -0.560228 
+   0.326715    0.943654   -0.052672 
+   0.544398   -0.142341    0.826662 
+
+Eigenvalue(Jacobi) 1: 1.597126 
+Eigenvalue(Jacobi) 2: 0.100390 
+Eigenvalue(Jacobi) 3: -0.092334 
+
+
+Eigenvectors Matrix(OR): 
+   0.298758   -0.560228    0.772585 
+  -0.943654   -0.052672    0.326715 
+   0.142341    0.826662    0.544398 
+
+Eigenvalue(QR) 1: 0.100390 
+Eigenvalue(QR) 2: -0.092334 
+Eigenvalue(QR) 3: 1.597126 
+
+Jacobi_counter = 9
+QR_counter = 7
